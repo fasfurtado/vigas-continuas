@@ -1,6 +1,6 @@
 # Programa Vigas Contínuas
 
-## Este programa foi desenvolvido em linguagem Microsoft QuickBasic, em 1987, pelo Engenheiro Civil Francisco de Assis da Silva Furtado, e o desafio é transformá-lo em um aplicativo multiplataforma.
+## Este programa foi desenvolvido em linguagem [Microsoft QuickBasic](https://en.wikipedia.org/wiki/QuickBASIC), em 1987, pelo Engenheiro Civil Francisco de Assis da Silva Furtado, e o desafio é transformá-lo em um aplicativo multiplataforma.
 
 O programa permite a inclusão de cargas concentradas e distribuídas nas vigas contínuas.
 
